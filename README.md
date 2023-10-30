@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amanijaber
-- 👀 I’m interested in web and apps 
-- 🌱 I’m currently learning android 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web and AI
+- 🌱 I’m currently learning js 
+- 💞️ I’m looking to collaborate on web develpment
 - 📫 How to reach me ...amani_jsh@yahoo.com
 
 <!---
